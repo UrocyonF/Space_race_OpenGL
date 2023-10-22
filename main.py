@@ -1,3 +1,13 @@
+"""
+Copyright (c) 2023, UrocyonF
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+
+Author: UrocyonF
+Date: 2022 - 2023
+"""
 from cpe3d import Object3D, Camera, Transformation3D, Text
 from glutils import create_program_from_file, load_texture
 from random import seed, random, choice, uniform
