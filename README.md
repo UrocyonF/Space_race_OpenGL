@@ -245,7 +245,7 @@ And can see his time and choose if he wants to play again or not.
 <a name="conclusion"></a>
 ## Conclusion
 
-The main problem I encountered during this project was the management of 3D movements and particularly rotations which were impossible to manage with Euler angles. It required a lot of research in order to have a solution that worked and was relatively simple to implement (see [Files Organization](#explaination) for the file [```cpe3d.py```](./cpe3d .py)).
+The main problem I encountered during this project was the management of 3D movements and particularly rotations which were impossible to manage with Euler angles. It required a lot of research in order to have a solution that worked and was relatively simple to implement (see [Files Organization](#explaination) for the file [```cpe3d.py```](./cpe3d.py)).
 
 There was also the placement of certain objects which posed problems, for example the text and the skybox. Since the latter is not an image placed at infinity, but 6 images which are placed around the player and are therefore dependent on his position. This required finding a solution so that the player could not see the boundaries between the images, and that they were always at the same distance from the player. In addition, I had to find images that fit together well, and place them correctly (rotation, position, size) in order to have a correct rendering (see [Files Organization](#explaination) for the file [```viewerGL.py```](./viewerGL.py)).
 
