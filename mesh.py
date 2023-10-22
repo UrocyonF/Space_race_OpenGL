@@ -1,3 +1,13 @@
+"""
+Copyright (c) 2023, UrocyonF
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+
+Author: UrocyonF
+Date: 2022 - 2023
+"""
 #!/usr/bin/env python3
 
 from ctypes import sizeof, c_float, c_void_p
