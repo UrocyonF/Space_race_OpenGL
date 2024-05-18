@@ -13,7 +13,7 @@
 <a name="general-info"></a>
 ## General Information
 
-This project was carried out for the Image Processing and Synthesis subject of semester 6 of the engineering school CPE Lyon.
+This project was carried out for the Image Processing and Synthesis subject of semester 6 of the engineering school.
 
 The goal of this project is to make a game using the OpenGL library.
 
